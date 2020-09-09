@@ -1,5 +1,4 @@
-# Alumia integration
-## Cielo Checkout
+## Alumia integration Cielo Checkout
 
 This app serve an API that's integrate Alumia to Cielo 
 
