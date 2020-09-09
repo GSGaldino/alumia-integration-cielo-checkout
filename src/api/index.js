@@ -1,6 +1,5 @@
 const express = require('express');
 
-const emojis = require('./emojis');
 const cielo = require('./cielo');
 
 const router = express.Router();
