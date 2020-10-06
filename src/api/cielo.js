@@ -19,7 +19,7 @@ module.exports = {
                  "UnitPrice":199700,
                  "Quantity":1,
                  "Type":"Digital",
-                 "Sku":"VEN",
+                 "Sku":"AGB",
                  "Weight":00
               },
              ]
