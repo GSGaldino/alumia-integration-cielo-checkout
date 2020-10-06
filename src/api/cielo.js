@@ -14,8 +14,8 @@ module.exports = {
         "Cart":{  
            "Items":[  
               {  
-                 "Name":"Venda Consultiva - Executive Academy",
-                 "Description":"Executive Academy - Venda Consultiva",
+                 "Name":"Inovação no Agribusiness - Executive Academy",
+                 "Description":"Executive Academy - Inovação no Agribusiness",
                  "UnitPrice":199700,
                  "Quantity":1,
                  "Type":"Digital",
